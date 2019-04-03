@@ -1,0 +1,26 @@
+Realizarea unei pagini web folosind doar tehnologiile HTML5, CSS3, JS, JQuerry, PHP.
+Pagina trebuie să fie o unealtă pentru domeniul: Magazin virtual
+--------------------------------------
+Nota pentru ultima etapă (2p) se calculează astfel (dintr-o notă de 10, maxim):
+(1p) O funcționalitate specifică domeniului confirmată de asistent
+(0,25p) Site-ul web este responsive (să arate OK și pe Telefon și pe Desktop)
+(0,25p) Validare HTML5 (https://validator.w3.org/) - Validarea se va face dând View Source în browser și folosind acel cod
+(0,5p) Aspectul site-ului web
+(1p) Login + Suport multi-utilizator + Înregistrare
+(1p) Folosind AJAX totul va funcționa într-o singură pagină
+--------------------------------------
+Tema va mai conține modulele (funcționale și dinamice):
+(1p) Chat
+(1p) Upload fișiere + Vizualizarea efectului de upload
+(1p) Hărți - Google maps (ex: desenare pe hartă a unei zone de interes, joc în care fiecare controlează un oraș, căutare bazată pe hartă)
+(1p) Desenare (ex: scheme arhitecturale)
+(1p) Suport pentru mai multe limbi, acestea vor putea fi selectate de utilizator
+(1p) Admin - Autorizare (ex: drepturi UNIX rwx controlabile de Admin per utilizator)
+--------------------------------------
+--------------------------------------
+Folosirea librăriilor este interzisă. Excepții pot fi oferite de asistenți. În general aplicăm regula: Dacă vă înlocuiește complet munca, este interzisă (gen nu aveți voie de un framework care să facă login), dar dacă este folosit masiv în industrie și doar ușurează parțial munca este acceptat, cu condiția să vă folosiți de el să creați ceva și mai bun decât ați face fără (de exemplu bootstrap poate fi folosit dat atunci ne așteptăm ca aspectul site-ului să fie excepțional).
+--------------------------------------
+Etape (respectarea dead-line pentru etapele 1 și 2 aduc încă 50% -per etapă- din punctajul de la etapa 3):
+1. Această versiune trebuie să fie reprezentativă vizual pentru varianta finală (majoritatea html + css terminat). Minim 500 de linii de cod
+2. Tema trebuie să fie funcțională. Pentru a fi punctată etapa va trebui prezentată
+3. Implementarea detaliilor finale + Modificări cerute etapa anterioară + prezentarea finală
